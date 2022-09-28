@@ -19,7 +19,9 @@
     "generate-csv",
     "export-csv",
     "convert-csv",
-    "json-to-csv"
+    "json-to-csv",
+    "json2csv",
+    "csv-export"
   ],
   "author": "Md Misbauddin Chowdhury",
   "license": "MIT",
