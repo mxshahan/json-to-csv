@@ -5,13 +5,13 @@ A simplest javascript library that help you generate csv file and export
 ### Install Package
 
 ```bash
-npm install graphql-apollo-client --save
+npm install json2csv-export --save
 ```
 
 or
 
 ```bash
-yarn add graphql-apollo-client
+yarn add json2csv-export
 ```
 
 ### Example
