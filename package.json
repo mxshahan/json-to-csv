@@ -1,6 +1,6 @@
 {
   "name": "json2csv-export",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A javascript library to convert json array into csv",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,5 @@
   "bugs": {
     "url": "https://github.com/mxshahan/json-to-csv/issues"
   },
-  "homepage": "https://github.com/mxshahan/json-to-csv#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "homepage": "https://github.com/mxshahan/json-to-csv#readme"
 }
