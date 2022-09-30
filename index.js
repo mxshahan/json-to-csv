@@ -3,7 +3,7 @@
  * @param {{ header: {[string]: String}, data: Array, filename: String }}  param0
  */
 
-exports.exportCsv = ({ header: _header, data = [], filename }) => {
+function exportCsv({ header: _header, data = [], filename }) {
   const replacer = (_, value) => (value === null ? '' : value);
 
   let header = Object.keys(data[0]);
@@ -29,4 +29,8 @@ exports.exportCsv = ({ header: _header, data = [], filename }) => {
   a.click();
   window.URL.revokeObjectURL(url);
   a.remove();
+}
+
+module.exports = {
+  exportCsv,
 };

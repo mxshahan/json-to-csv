@@ -14,6 +14,12 @@ or
 yarn add json2csv-export
 ```
 
+or use cdn bellow before end of body tag
+```html
+<script src="https://unpkg.com/json2csv-export"></script>
+
+```
+
 ### Example
 
 ```js
