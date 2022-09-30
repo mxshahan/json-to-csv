@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mxshahan/json-to-csv.git"
+    "url": "git+https://github.com/mxshahan/json2csv-export.git"
   },
   "keywords": [
     "json-to-csv",
@@ -26,7 +26,7 @@
   "author": "Md Misbauddin Chowdhury",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mxshahan/json-to-csv/issues"
+    "url": "https://github.com/mxshahan/json2csv-export/issues"
   },
-  "homepage": "https://github.com/mxshahan/json-to-csv#readme"
+  "homepage": "https://github.com/mxshahan/json2csv-export#readme"
 }
