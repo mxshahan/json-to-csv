@@ -1,6 +1,6 @@
 {
   "name": "json2csv-export",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A javascript library to convert json array into csv",
   "main": "index.js",
   "scripts": {
