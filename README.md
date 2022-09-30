@@ -16,7 +16,7 @@ yarn add json2csv-export
 
 or use cdn bellow before end of body tag
 ```html
-<script src="https://unpkg.com/json2csv-export"></script>
+<script src="https://unpkg.com/json2csv-export@1.0.5/index.js"></script>
 
 ```
 
